@@ -1,7 +1,7 @@
 var app = {
   version: 1,
   currentQ: 0,
-  jsonFile:"https://s3-us-west-2.amazonaws.com/s.cdpn.io/40041/FF3.json",
+  jsonFile:"./questions.json",
   board: $("<div class='gameBoard'>"+
            
              "<!--- Scores --->"+
