@@ -1,6 +1,19 @@
 {
 
-"Tell me what LULU wants the most":[["Keys",63],["Money",7],["Weight",5],["Contact Lens",4],["Eyeglasses",4],["Wallet",3],["Earring",2]],
-"Tell me what Blake wants the most":[["Keys",63],["Money",7],["Weight",5]]
-  
+"As a new entrant on the market, what barriers to entry can you think of?":[["Startup costs",500],["Restrictive government regulations",400],["Capital requirements",500],["Retaliation from existing businesses",400],["Brand loyalty",300],["Economies of scale low",400],["Unequal access to distribution channels",400]],
+
+"As an existing company, what challenges can you think of?":[["Keeping up with expectations from stakeholders",500],["Expiration of patents",300],["New entrants",500],["Keeping up with technology (Moore’s Law)",400],
+
+"As an existing competitor, when would the intensity of rivalry be high?":[["Numerous competitors",400],["Slow growth in the industry",400],["High exit barriers",500], 
+
+"What are some of the best strategic options to not lose a customer to a competitor? ":[["Install high switching costs",500],["Have a highly differentiated product offering",400],[" Increase efficiencies in supply chain to keep price competitive",300],["Assess changing needs of customer constantly",300],["Provide complimentary products and services",400],
+
+"As a supplier, what can make you powerful? ":[["No substitute for what the supplier group provides",300],["Differentiation",500],["High switching costs",400],
+
+"As a buyer, when do you have negotiating leverage?":[["No differentiation on the market",400],["Low switching costs",300],["Very few buyers or all buy in huge bulk",500],
+
+"According to Porter, which industries have the lowest bargaining power due to heavy regulations?":[["Healthcare",300],["Pharmaceutical",500],["Airlines",300],["Tobacco",400],
+
+"When is a threat of substitute high?":[["Low switching costs ",400],["Attractive price-performance trade-off",500],["When industry or technology in industry changes rapidly",300],[" Price point of product is high",400]
+
 }
