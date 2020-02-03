@@ -1,4 +1,8 @@
 {
 
-"Tell me what asjkdfljkaldf wants the most":[["Keys",63],["Money",7]]
+
+"As a new entrant on the market, what barriers to entry can you think of?":[["Startup costs",500],["Restrictive government regulations",400],["Capital requirements",500],["Retaliation from existing businesses",400],["Brand loyalty",300],["Economies of scale low",400],["Unequal access to distribution channels",400]],
+"As an existing company, what challenges can you think of?":[["Keeping up with expectations from stakeholders",500],["Expiration of patents",300],["New entrants",500],["Keeping up with technology (Moore’s Law)",400],
+"As an existing competitor, when would the intensity of rivalry be high?":[["Numerous competitors",400],["Slow growth in the industry",400],["High exit barriers",500], 
+  
 }
